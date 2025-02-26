@@ -683,7 +683,7 @@ Telegram: @Brian_Provalidator
 ### Contributions by [ValidatorVN](https://www.validatorvn.com/)
 
 #### Mainnet
-* Delegator dashboard: https://dashboard.validatorvn.com/. This dashboard tracks uptime and monitor commission changes of validators whom delegators stake to effortlessly.
+* Delegator dashboard: https://dashboard.validatorvn.com/. This dashboard tracks uptime and monitor commission changes of validators whom delegators stake to effortlessly. [Tutorial here](https://www.youtube.com/watch?v=6KexvTi945s)
 * IBC Relayer between [TIA](https://www.mintscan.io/celestia/address/celestia1cjhz8st5409k2nzfcpcnexehjxh7k2fg8env8s) <> OSMO, ATOM, AXL, ELYS, NAM
 * Upcoming support for RPC, API, Explorer, Bridge Node, and more 
 #### Testnet
